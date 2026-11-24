@@ -1,16 +1,17 @@
-## Hi there 👋
+# duquxian123
 
-<!--
-**duquxian123/duquxian123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+个人项目、实验和小工具的索引。
 
-Here are some ideas to get you started:
+## 项目
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [equipment-doc-qa](https://github.com/duquxian123/equipment-doc-qa)
+  面向设备资料检索和模拟生产业务的本地 RAG / Agent 实验。
+
+- [ukit-demo](https://github.com/duquxian123/ukit-demo)
+  配置驱动桌面办公工具的脱敏演示。
+
+- [duquxian-toolbox-mobile](https://github.com/duquxian123/duquxian-toolbox-mobile)
+  Android 悬浮球效率工具，包含离线出差报销。
+
+- [duquxian-toolbox-windows](https://github.com/duquxian123/duquxian-toolbox-windows)
+  插件化 Windows 工具箱，包含截图标注、媒体整理和外设电量信息。
